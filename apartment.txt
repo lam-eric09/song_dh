@@ -1,0 +1,56 @@
+_ Furnitures
+Major:
+- Washing machine
+- Bed
+- Vacuum cleaner
+- Dehumidifier
+- Microwave
+Minor:
+- Fan
+- Mosquito net for bathroom window
+- Living room shelf
+- Sofa
+- Dishwasher
+
+_ Unknowns
+Major:
+- Loan (duration, rate, fixed vs variable...)
+- Moving date
+- What furnitures will be provided (table, chairs...)
+- Aircon and CMV: power on, controler
+Minor:
+- If issue with home provided equipment (lights, aircon, CMV...), who fixes it?
+- Rooms organization (computer desk, clothes, teaching materials, clothes hanger...)
+- Can we fit all laundry related stuff in laundry room? 
+
+_ To do
+- Take measurements of all rooms
+- Take measurements of space allocated for appliances (book shelf, washing machine...)
+
+_ Dimensions length width height=
+- Bedroom:
+- Bathroom:
+- Living room minus kitchen:
+- Kitchen:
+- Storage room:
+- Laundry room:
+- Entryway:
+
+_ Room arrangements
+- Bedroom
+Facing west
+Bed size, placement?
+
+- Kitchen
+
+- Living room
+Sofa, book shelf
+
+- Storage room
+Vertical space to use
+
+- Laundry room
+
+_ Entryway
+Shoe cabinet space to use
+
