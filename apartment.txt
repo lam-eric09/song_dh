@@ -24,22 +24,29 @@ Minor:
 - Can we fit all laundry related stuff in laundry room? 
 
 _ To do
-- Take measurements of all rooms
+X Take measurements of all rooms 
 - Take measurements of space allocated for appliances (book shelf, washing machine...)
 
-_ Dimensions length width height=
-- Bedroom:
-- Bathroom:
-- Living room minus kitchen:
-- Kitchen:
-- Storage room:
-- Laundry room:
-- Entryway:
+_ Dimensions length width height=223cm
+- Bedroom1: 284x283 
+- Bedroom2: 275x220
+- Doors: 83
+- Bathroom: 195x150
+- Living room (strictly): 293x210
+- Kitchen top (minus sink): 100x58 + elevated
+- Sink: 78x40
+- Kitchen area below induction: 60(length)x57(depth)x34(height)
+- Laundry room: 200x123 unequal, floor not leveled
+- Entryway: 110x100 + 95x30 low space
 
 _ Room arrangements
 - Bedroom
-Facing west
-Bed size, placement?
+Prompt: i have a bedroom, 283cm x 283cm. a sliding window on the west wall. door measuring 83cm on the north wall, near the east wall but not on it. i have a double sized bed with its headstand on the south wall. wardrobe alongside east wall, touching the south wall, depth 60cm.
+Fengshui principles: not in corner, not next to bathroom, not under window
+Optimal position: headboard touching south wall, middle of room
+Size: 
+Double (full) 135x200: side clearance 74cm. 
+Queen 150x200: side clearance 66.5cm
 
 - Kitchen
 
