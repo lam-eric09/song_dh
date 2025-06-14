@@ -45,7 +45,7 @@ Prompt: i have a bedroom, 283cm x 283cm. a sliding window on the west wall. door
 Fengshui principles: not in corner, not next to bathroom, not under window
 Optimal position: headboard touching south wall, middle of room
 Size: 
-Double (full) 135x200: side clearance 74cm. 
+Double (full) 135x200: side clearance 74cm. 44cm if closet 60cm depth 
 Queen 150x200: side clearance 66.5cm
 
 - Kitchen
