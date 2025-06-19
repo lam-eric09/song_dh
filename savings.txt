@@ -1,5 +1,7 @@
 _ AC
 Set at 28C if comfortable, use fan
+Never go below 26C
+24C is 50% more expensive than 26C
 
 _ Heater and ondol
 Set at a comfortable level, 20C is recommended
